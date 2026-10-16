@@ -21,12 +21,12 @@
 
 ## Notice
 
-Gargantuan has been discontinued by @rniraclefire to focus on the
+Gargantuan has been discontinued by [@rniraclefire](https://github.com/rniraclefire) to focus on the
 [Vortex](https://playvortex.io/) gaming platform. Below is a copy of the
 original announcement on Discord:
 
 ```md
-Hello @Progress Ping,
+Hello,
 
 I previously said progress on Gargantuan would be picking up by now. I'd rather be honest with you all about why that hasn't happened.
 
