@@ -1,0 +1,12 @@
+.{
+    .name = .gargantuan,
+    .version = "0.16.0",
+    .dependencies = .{
+        .luau = .{
+            .url = "git+https://github.com/Scythe-Technology/zig-luau#2789cdd012ee0b6d1a5a26ab5f567d2a316a2db9",
+            .hash = "luau-0.0.0+736-uDAGp3IECwDdiDfwL5GvpJkV1-apcOvLqZ-VDrPGp1JX",
+        },
+    },
+    .paths = .{""},
+    .fingerprint = 0xbeec98046881991a,
+}
