@@ -19,7 +19,30 @@
 
 </div>
 
-# Important: All development work is prioritized into [the ECS rewrite](https://github.com/teamfireworks/gargantuan/pull/43)
+## Notice
+
+Gargantuan has been discontinued by @rniraclefire to focus on the
+[Vortex](https://playvortex.io/) gaming platform. Below is a copy of the
+original announcement on Discord:
+
+```md
+Hello @Progress Ping,
+
+I previously said progress on Gargantuan would be picking up by now. I'd rather be honest with you all about why that hasn't happened.
+
+I've decided to stop developing Gargantuan.
+
+For a while now, I've been part of the team behind Vortex (https://playvortex.io, <https://www.youtube.com/@thehalodeveloper>) as an engine developer, and I want to focus my efforts there instead of splitting my time between two projects. On top of that, my IB Diploma coursework is only getting more intense, I want to see a Roblox game through to completion before I step away from the platform, and I want to fully realize my magnum opus, Welcome To Hell, without the despair of a Roblox-based engine.
+
+I'm sorry for the promises I couldn't keep and the hype and expectations that came with them. I know many of you may have been looking forward to seeing Gargantuan finished, and I'm sorry to let you down. At the same time, I need to be realistic about my time and what I can take on.
+
+Gargantuan doesn't have to end here, though. I'm looking for a new maintainer to resume development, potentially with oversight from me on behalf of Team Fireworks. If you're interested, please DM me.
+
+If you're looking for an alternative in the meantime, @devcell's Kinemium Engine already achieves much of what Gargantuan set out to do. I'd encourage you all to check it out and support Quadigen's work: <https://kinemium.quadigen.com/>
+
+See you in the towers.
+Brooke Nguyen
+```
 
 ## About Gargantuan
 
